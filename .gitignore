@@ -1,0 +1,240 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Recycle Bin used by IIS
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Npm package
+node_modules/
+
+# DotNet compile time
+project.lock.json
+project.fragment.lock.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Core
+bin/
+obj/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# Resharper
+_ReSharper.Caches/
+
+# Backup & report files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Web servers
+.pnp
+.pnp.js
+.DS_Store
+.idea/
+output/
+
+# StyleCop
+StyleCopCache
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Minified JavaScript and CSS files
+*.min.js
+*.min.css
+
+# Packages
+*.nupkg
+*.snupkg
+
+# MacOS
+.DS_Store
+
+# Yarn
+.yarn/
+.pnp.*
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Core
+bin/
+obj/
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Resharper
+_ReSharper.Caches/
+
+# Azure DevOps
+*.coverage
+coverage
+
+# Backup & report files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+
+# Rider
+.idea/
+*.sln.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.sln.docstates
+*.pidb
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ASP.NET Core
+bin/
+obj/
+
+# Entity Framework
+*.mdf
+*.ldf
